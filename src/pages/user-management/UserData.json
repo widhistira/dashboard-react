@@ -1,0 +1,38 @@
+[
+  {
+    "userid": "2111021847",
+    "fullname": "Christian Oktavianus Gilbert",
+    "emailaddress": "Christian_Gilbert@gmail.com",
+    "rolename": "TPA",
+    "department": "Departmen Administrator",
+    "active": "active",
+    "delette": ""
+  },
+  {
+    "userid": "2134343434",
+    "fullname": "Oktavianus Gilbert",
+    "emailaddress": "Gilbert@gmail.com",
+    "rolename": "TPA",
+    "department": "CEO",
+    "active": "Inactive",
+    "delette": ""
+  },
+  {
+    "userid": "21343434",
+    "fullname": "Gilbert",
+    "emailaddress": "okta@gmail.com",
+    "rolename": "lippo",
+    "department": "UI/UX",
+    "active": "active",
+    "delette": ""
+  },
+  {
+    "userid": "21455656",
+    "fullname": "chris ajah",
+    "emailaddress": "christ@gmail.com",
+    "rolename": "TPA",
+    "department": "Tech",
+    "active": "active",
+    "delette": ""
+  }
+]
